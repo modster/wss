@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "23b300bd-5699-43c2-a55b-6b1339e426e2",
+    "name": "env",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2023-02-28T15:51:21.443Z",
+    "modified": "2023-02-28T15:51:21.443Z",
+    "data": [
+      {
+        "name": "token",
+        "value": "{{FREQTRADE__PRODUCER}}"
+      }
+    ],
+    "envFile": "..\\..\\.env"
+  }
+]

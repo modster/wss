@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "81238a40-90c1-497b-8d9e-baca16ed9640",
+    "colName": "freqtrade",
+    "created": "2023-02-28T15:37:41.499Z",
+    "sortNum": 10000,
+    "folders": [],
+    "settings": {
+      "headers": [],
+      "tests": [],
+      "options": {
+        "baseUrl": "http://localhost:8080/api/v1/"
+      },
+      "envId": "23b300bd-5699-43c2-a55b-6b1339e426e2"
+    }
+  }
+]
